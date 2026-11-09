@@ -7,17 +7,9 @@
   <a href="https://atolyedefteri.com">atolyedefteri.com</a> · <a href="https://demo.atolyedefteri.com">Canlı demo</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/aktif_işletme-8-c0392b">
-  <img src="https://img.shields.io/badge/kullanıcı-~45-c0392b">
-  <img src="https://img.shields.io/badge/iş_emri-1000%2B-c0392b">
-  <img src="https://img.shields.io/badge/otomatik_test-4000%2B-2c3e50">
-  <img src="https://img.shields.io/badge/açık_port-0-2c3e50">
-</p>
-
 > **Bu repo bir mühendislik vaka çalışmasıdır.** Ürünün kaynak kodu özeldir ve burada yer almaz. Burada ürünün ne yaptığını, nasıl tasarlandığını ve canlıda nasıl ayakta tutulduğu anlatılıyor.
 
-*English: Atölye Defteri is a workshop-management SaaS for auto repair shops in Türkiye, used by 8 businesses and ~45 people daily. It includes a 17-tool LLM agent with permission checks and human approval, and it runs multi-tenant on a single VPS with zero open ports, self-healing watchdogs, verified backups and canary releases. Source code is private; this repo documents the engineering.*
+*English: Atölye Defteri is a workshop-management SaaS for auto repair shops in Türkiye. It includes a 17-tool LLM agent with permission checks and human approval, and it runs multi-tenant on a single VPS with zero open ports, self-healing watchdogs, verified backups and canary releases. Source code is private; this repo documents the engineering.*
 
 ---
 

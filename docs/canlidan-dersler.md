@@ -2,7 +2,7 @@
 
 [← Ana sayfa](../README.md)
 
-Gerçek işletmelerin her gün kullandığı bir sistemde yaşanan olaylardan çıkan kurallar. Her biri en az bir kez canlıda yaşandı.
+Canlıda çalışan sistemde yaşanan olaylardan çıkan kurallar. Her biri en az bir kez canlıda yaşandı.
 
 ---
 
